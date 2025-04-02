@@ -31,7 +31,7 @@ This project also includes specialized frameworks:
 - **Google Organics:** An adaptation of Google’s search engine with built-in organic filtering.
 - **Bing Organics:** A parallel system designed for Bing, delivering organic-centric search results.
 
-Learn more about our approach at [SearchForOrganicsOfficial](https://searchfororganicsofficial.blogspot.com).
+Learn more about our approach at [SearchForOrganics](https://searchfororganicsofficial.blogspot.com).
 
 ---
 
